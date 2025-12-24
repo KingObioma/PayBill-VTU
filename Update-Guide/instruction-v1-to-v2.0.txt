@@ -1,0 +1,14 @@
+#######################
+How to update BillPay from version 1.0 to version 2.0
+
+#######################
+
+1) replace in \routes\web.php from project.zip
+2) replace in \resources\views folder from project.zip
+3) replace in \app folder from project.zip
+
+
+#######################
+Complete Update
+######################
+

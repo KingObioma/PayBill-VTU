@@ -1,0 +1,12 @@
+#######################
+How to update BillPay from version 2.0 to version 2.1
+
+#######################
+
+1) replace in \app\Services\Bill\flutterwave folder from project.zip
+
+
+#######################
+Complete Update
+######################
+
